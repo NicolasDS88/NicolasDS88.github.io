@@ -1,0 +1,53 @@
+
+/*---------------primer parte--------------------------------------- */
+.colorContenedor {
+    background-color: #353A40;
+}
+
+/*--------------segunda parte -------------------------------------- */
+
+.imagen-fondo {
+
+    background: linear-gradient(to right, #0c0c0c73, #0303037e, #12121373), url(imagenes/ba1.jpg);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.color-de-las-letras {
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 55%;
+    right: 5%;
+
+    transform: translate(-10%, -50%);
+    position: absolute;
+}
+.contenedorColor{
+    background: #353A40;
+
+}
+.letrah{
+    color: rgb(255, 255, 255);
+    position: absolute;
+}
+
+.boton{
+    color: antiquewhite;
+    background-color: #96c93e;
+    
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #1e5170;
+    color: white;
+    background-image: linear-gradient(to right, rgb(36, 59, 66), rgb(36, 63, 119))
+  }
