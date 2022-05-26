@@ -1,9 +1,14 @@
 
+<<<<<<< HEAD
 /*---------------primer parte--------------------------------------- */
+=======
+
+>>>>>>> d33a518a84042c4fec035a6bd4f20495dec452e5
 .colorContenedor {
     background-color: #353A40;
 }
 
+<<<<<<< HEAD
 /*--------------segunda parte -------------------------------------- */
 
 .imagen-fondo {
@@ -11,6 +16,26 @@
     background: linear-gradient(to right, #0c0c0c73, #0303037e, #12121373), url(imagenes/ba1.jpg);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
+=======
+.colorLetrasImagen {
+    top: 50%;
+    left: 55%;
+    right: 5%;
+    color: white;
+    text-align: center;
+    position: absolute;
+    transform: translate(-10%, -50%);
+    position: absolute;
+}
+
+.contenedorHono{
+    background: #353A40;
+}
+
+.imagenFondo {
+    background: linear-gradient(to right, #0c0c0c73, #0303037e, #12121373), url(imagenes/ba1.jpg);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+>>>>>>> d33a518a84042c4fec035a6bd4f20495dec452e5
     height: 500px;
     background-position: center;
     background-repeat: no-repeat;
@@ -18,6 +43,7 @@
     position: relative;
 }
 
+<<<<<<< HEAD
 .color-de-las-letras {
     color: white;
     text-align: center;
@@ -34,20 +60,40 @@
 
 }
 .letrah{
+=======
+.letraHonolulu{
+>>>>>>> d33a518a84042c4fec035a6bd4f20495dec452e5
     color: rgb(255, 255, 255);
     position: absolute;
 }
 
+<<<<<<< HEAD
 .boton{
     color: antiquewhite;
     background-color: #96c93e;
+=======
+.colorSubmit{
+    color: antiquewhite;
+    background-color: #4ed16f;
+>>>>>>> d33a518a84042c4fec035a6bd4f20495dec452e5
     
 }
 
 footer {
     text-align: center;
     padding: 3px;
+<<<<<<< HEAD
     background-color: #1e5170;
     color: white;
     background-image: linear-gradient(to right, rgb(36, 59, 66), rgb(36, 63, 119))
   }
+=======
+    background-color: #0a3a58;
+    color: white;
+  }
+
+  u.dotted{
+    border-bottom: 1px dashed #999;
+    text-decoration: none; 
+  }
+>>>>>>> d33a518a84042c4fec035a6bd4f20495dec452e5
